@@ -1,0 +1,7 @@
+.sliderimg{
+    width: 100vw;
+    height: 100vh;
+}
+.alice-carousel__prev-btn,.alice-carousel__next-btn{
+    display: none;
+}
